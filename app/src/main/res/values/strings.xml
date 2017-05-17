@@ -111,5 +111,8 @@
 
     <!-- Empty Weather Database -->
     <string name="empty_forecast_list">No Weather Information Available</string>
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2.00_Integration_Points_and_Error_Cases
 </resources>
